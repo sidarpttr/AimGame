@@ -1,4 +1,4 @@
-# Aim Improvement Game
+# Aim Game
 
 A simple aiming improvement game built with Python and Pygame.
 
